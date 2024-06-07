@@ -27,7 +27,7 @@ curl_close($ch);
     <meta charset="UTF-8" />
     <title>The Next Movie of Marvel</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css"/>
-    <!-- <link rel="stylesheet" href="styles.css"> -->
+    <link rel="shortcut icon" href="https://wallpapercave.com/wp/wp4584550.jpg">
 </head>
 <body>
     <div class="wrapper" style="display:grid; place-content:center; border:solid red;">
